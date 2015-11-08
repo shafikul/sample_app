@@ -37,7 +37,7 @@ group :development, :test do
   gem 'byebug'
   gem 'rspec-rails', '~> 3.0'
   gem 'webrat', '0.7.1'
-
+  gem 'capybara', '~> 2.0'
 end
 
 group :development do
