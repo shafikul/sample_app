@@ -1,5 +1,5 @@
 require 'rails_helper'
-
+require 'spec_helper'
 RSpec.describe "LayoutLinks", type: :request do
   describe "GET /layout_links" do
     it "works! (now write some real specs)" do
